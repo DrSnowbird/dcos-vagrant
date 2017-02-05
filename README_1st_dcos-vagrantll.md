@@ -1,10 +1,10 @@
 # Import to know that you have to use VirtualBox 5.0.24 to avoid unnecessary errors during the roll out of Vagrant using Virtualbox due to the VM images used by DC/OS vagrant is 5.0.24. 
 
-## Though, you can use "vagrant plug-in manager for VirtualBox". But, I don't have much luck for many trials and failures. And, it talkes much longer time for VirtualBox to upgrade the version for the images on the fly. 
+## Though, you can use "vagrant plug-in manager for VirtualBox". But, I don't have much luck for many trials and failures. And, it takes far much longer time for VirtualBox to upgrade the version for the images on the fly. 
 
 My opion, after my many failures in trying overcome the version incompatibility, such as the latest 5.1.* or, 5.0.32, all turned to have been wasting my time!
 ```
-(I will not recommended to use this approach)
+(I will not recommended to use plugin to on-the-fly upgrade DC/OS VM images approach)
 vagrant plugin install vagrant-vbguest
 ```
 
