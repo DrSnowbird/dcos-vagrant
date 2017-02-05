@@ -2,7 +2,7 @@
 
 ## Though, you can use "vagrant plug-in manager for VirtualBox". But, I don't have much luck for many trials and failures. And, it takes far much longer time for VirtualBox to upgrade the version for the images on the fly. 
 
-My opion, after my many failures in trying overcome the version incompatibility, such as the latest 5.1.* or, 5.0.32, all turned to have been wasting my time!
+My opinion, after my many failures in trying overcome the version incompatibility, such as the latest 5.1.* or, 5.0.32, all turned to have been wasting my time!
 ```
 (I will not recommended to use plugin to on-the-fly upgrade DC/OS VM images approach)
 vagrant plugin install vagrant-vbguest
