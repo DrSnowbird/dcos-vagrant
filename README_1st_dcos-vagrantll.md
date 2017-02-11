@@ -1,4 +1,4 @@
-## Version work smoothly: 5.0.24. (I think 5.0.20 should be the same) 
+## Version work smoothly: 5.0.24. (I think 5.0.20 should have the same success running) 
 
 * DC/OS Vagran VirtualBox Box image is 5.0.20
 * I use 5.0.24 seems to have no glitch
